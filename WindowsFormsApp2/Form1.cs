@@ -31,5 +31,10 @@ namespace WindowsFormsApp2
         {
             label1.Text = "Hello you";
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+          
+        }
     }
 }
